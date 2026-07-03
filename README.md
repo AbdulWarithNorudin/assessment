@@ -8,10 +8,10 @@
 
 ## Setup
 
-1. Import `GoRest_API_Assignment.postman_collection.json`.
-2. Import `GoRest.postman_environment.json`.
+1. Import `ASSESMENT.postman_collection.json`.
+2. Import `assesment.postman_environment.json`.
 3. Open the imported environment and update the `token` variable with your personal GoRest Bearer Token.
-4. Select the **GoRest Environment** before running the collection.
+4. Select the **assesment environment** before running the collection.
 
 ## Test Scenarios
 
